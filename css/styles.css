@@ -85,8 +85,9 @@ h3 {
 .right-column {
   flex: 1;
   background-color: transparent;
+  margin-bottom: 40;
   margin-left: auto;
   font-weight: 600;
   color: black;
-  font-size: 120px;
+  font-size: 150px;
 }
