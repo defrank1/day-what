@@ -1,4 +1,4 @@
-/* the font*/
+/* the font */
 * {
   font-family: sans-serif;
 }
@@ -15,7 +15,6 @@
   color: #ffffff;
   cursor: pointer;
   display: flex;
-  font-family: Inter, sans-serif;
   font-size: 25px;
   height: 48px;
   justify-content: center;
@@ -64,35 +63,30 @@
   }
 }
 
-
-
 button {
   margin-bottom: 25px;
 }
 
 h1 {
   margin-bottom: 0px;
-  /*adjust as needed*/
 }
 
 h3 {
   margin-bottom: 25px;
-  /*adjust as needed*/
   margin-top: 5px;
-  /*adjust as needed*/
   font-style: italic;
 }
 
 /* Define styles for the container and right column */
 .container {
-  display: flex-start;
+  display: flex;
 }
 
 .right-column {
   flex: 1;
   background-color: transparent;
-  margin-left: center;
+  margin-left: auto;
   font-weight: 600;
   color: black;
-  font-size: 120px
+  font-size: 120px;
 }
